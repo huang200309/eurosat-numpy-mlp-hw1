@@ -1,0 +1,12 @@
+EuroSAT_RGB/
+.cache/
+.mplconfig/
+__pycache__/
+*.pyc
+*.aux
+*.log
+*.out
+outputs/cache/
+outputs/run_*/
+outputs_tuning_*/
+hw1_submission.zip
